@@ -16,13 +16,6 @@ You can view the live demo of the project [here](https://facebookneverlogin.netl
 - CSS
 - JavaScript
 
-## Usage
-
-1. Clone the repository: `git clone <repository-url>`
-2. Open the `index.html` file in your web browser to see the project in action.
-
-Feel free to explore the code and make any modifications as needed. If you encounter any issues or have any questions, please don't hesitate to reach out.
-
 ## Credits
 
 This project is inspired by the concept of Facebook login pages and dynamic button animations. 
